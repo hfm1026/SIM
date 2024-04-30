@@ -36,3 +36,5 @@ do
                             --total_step 200 
 done
 ```
+
+4. The results of model and prediction accuracy are saved in 'result'. The model performances of test data are saved in 'metric' file  and long Agos predict probability is saved in 'inference' file. The model and data for each iterative step are saved in file start with "step"
