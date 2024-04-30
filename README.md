@@ -37,4 +37,4 @@ do
 done
 ```
 
-4. The results of model and prediction accuracy are saved in 'result'. The model performances of test data are saved in 'metric' file  and long Agos predict probability is saved in 'inference' file. The model and data for each iterative step are saved in file start with "step"
+4. The results of model and prediction accuracy are saved in `result`. The model performances of test data are saved in `metric` file  and long Agos predict probability is saved in `inference` file. The model and data for each iterative step are saved in file start with `step`. The `metrics.xlsx` in `result` file  is the filter results of pLDDT, probability of protein solubility, and ΔG.
