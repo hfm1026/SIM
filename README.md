@@ -1,6 +1,5 @@
 # Self-Iterative Model (SIM)
-Advancing RNA-Targeting Argonaute Discovery with Self-Iterative AI Model from Scarce Experimental Data
-
+SIM: Discovery of Novel RNA-Targeting Argonautes by Self-Iterative Learning from Scarce Data
 Here we provide code to implement SIM for predicting RNA-targeting and room-temperature operating Agos.
 
 Please cite:
